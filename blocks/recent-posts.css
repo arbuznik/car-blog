@@ -1,0 +1,14 @@
+.recent-posts {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+}
+
+.recent-posts__title {
+  margin: 0 0 3px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+}

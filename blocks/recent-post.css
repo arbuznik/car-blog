@@ -1,0 +1,33 @@
+.recent-post {
+  display: flex;
+  column-gap: 20px;
+}
+
+.recent-post__cover {
+  width: 95px;
+  height: 95px;
+  border-radius: 3px;
+}
+
+.recent-post__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.recent-post__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 26px;
+  margin: 0 0 13px;
+}
+
+.recent-post__subtitle {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  color: #CECECE;
+  margin: 0;
+}

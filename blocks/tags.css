@@ -1,0 +1,30 @@
+.tags__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  color: #171717;
+  margin: 0 0 26px;
+}
+
+.tags__tags {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tags__tag {
+  display: block;
+  background: #EBEBEB;
+  border-radius: 3px;
+  padding: 7px 16px 5px;
+  text-decoration: none;
+  color: #000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+}

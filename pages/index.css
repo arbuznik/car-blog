@@ -1,0 +1,31 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/logo.css);
+@import url(../blocks/main.css);
+@import url(../blocks/highlights.css);
+@import url(../blocks/highlight-card.css);
+@import url(../blocks/category-badge.css);
+@import url(../blocks/blog-wrapper.css);
+@import url(../blocks/blog-feed.css);
+@import url(../blocks/blog-post.css);
+@import url(../blocks/featured-author.css);
+@import url(../blocks/sidebar.css);
+@import url(../blocks/popular.css);
+@import url(../blocks/popular-post.css);
+@import url(../blocks/instagram.css);
+@import url(../blocks/tags.css);
+@import url(../blocks/newsletter.css);
+@import url(../blocks/blog-pagination.css);
+@import url(../blocks/most-popular.css);
+@import url(../blocks/most-popular-card.css);
+@import url(../blocks/footer.css);
+@import url(../blocks/recent-posts.css);
+@import url(../blocks/recent-post.css);
+
+
+
+/* div, p, ul, header, footer, main, section, article, h1, h2, h3, h4 {
+  border: 1px solid red;
+  box-sizing: border-box;
+} */

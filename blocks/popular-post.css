@@ -1,0 +1,36 @@
+.popular-post {}
+
+.popular-post__image-container {
+  display: flex;
+  position: relative;
+  width: 270px;
+  height: 195px;
+}
+
+.popular-post__cover {
+  position: absolute;
+  border-radius: 5px;
+}
+
+.popular-post__category-badge {
+  margin: 20px;
+  z-index: 1;
+}
+
+.popular-post__title {
+  margin: 20px 0 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #171717;
+}
+
+.popular-post__subtitle {
+  margin: 10px 0 0;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #666666;
+}

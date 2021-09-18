@@ -1,0 +1,14 @@
+.popular {
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+}
+
+.popular__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #171717;
+  margin: 0 0 -17px;
+}

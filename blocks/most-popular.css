@@ -1,0 +1,13 @@
+.most-popular__cards {
+  display: flex;
+  column-gap: 30px;
+}
+
+.most-popular__title {
+  margin: 0 0 27px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 39px;
+  color: #171717;
+}

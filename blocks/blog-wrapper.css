@@ -1,0 +1,4 @@
+.blog-wrapper {
+  display: flex;
+  column-gap: 130px;
+}
